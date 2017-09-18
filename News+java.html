@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html LANG="EN">
+ <head>
+    <meta charset="utf-8">
+    <title>News</title>
+    <link rel="stylesheet" type="text/css"  href="style.css">
+    <script type="text/javascript">
+    function mOver(){
+      var sidebar=document.getElementById("sidebar");
+      sidebar.className="overStyle"
+      sidebar.innerHTML="<h2>This is a sidebar</h2>"
+    }
+    function mOut(){
+      var sidebar=document.getElementById("sidebar");
+      sidebar.className="outStyle"
+      sidebar.innerHTML="<h2>Ready for it?→Click</h2>"
+    }
+    </script>
+
+</head>
+  <body>
+    <header class="banner_tag">
+    <h1>News</h1>
+    <p>Local and National News</p>
+    </header>
+
+<nav>
+  <ul>
+   <li ><a href="home.html";
+   onmouseover="mOver()" onmouseout="mOut()"
+           >Home</a></li>
+   <li><a href="Archive.html" 
+   onmouseover="mOver()" onmouseout="mOut()"
+          >Archives</a></li>
+   <li><a href="About.html" 
+   onmouseover="mOver()" onmouseout="mOut()"
+         >About</a></li>
+ </ul>
+</nav>
+<main>
+  <section>
+   <h2>Local News</h2>
+   <article>
+    <header>
+     <h3>Fire Fighters Rescue Man from Building</h3>
+      <p>(author,date)</p>
+    </header>
+    <p></p>
+     <p>This is the story text.This is the story text.</p>
+     <p>This is the story text.This is the story text.</p>
+    </article> 
+
+      
+    <article>
+     <header>
+      <h3>New Library to be Built.</h3>
+      <p>(author,date)</p>
+     </header>
+      <p>This is the story text.This is the story text.</p>
+      <p>This is the story text.This is the story text.</p>
+    </article>
+  </section>
+         
+
+  <section>
+   <h2>National News</h2>
+   <article>
+    <header>
+     <h3>Snow Storm is Making Travel Difficult.</h3>
+      <p>(author.date)</p> 
+     </header>
+     <p>This is the story text.This is the story text.</p>
+     <p>This is the story text.This is the story text.</p>
+    </article>  
+
+      
+    <article>
+     <header>
+      <h3>Thousands are without power.</h3>
+      <p>(author,date)</p>
+     </header>
+      <p>This is the story text.This is the story text.</p>
+      <p>This is the story text.This is the story text.</p>
+    </article>
+  </section>   
+  </main>
+
+  <aside>
+   <h2>Be a News Reporter.</h2>
+   <p>If you see news happening-Send us a Text.</p>
+
+   <button onclick="myFunction()" ="my_button">Our Contact Information</button>
+   <p id="contact"></p>
+   <script>function myFunction(){
+          document.getElementById("contact").innerHTML="TEL:XXXXXXXX"}</script>
+  </aside>
+
+<aside id="sidebar">
+<h2 onclick="this.innerHTML='Come Contact us!'">Ready for it?→Click!</h2>
+<p >Watch this</p>
+</aside>
+ <footer>
+   <p>Footer Information</p>
+ </footer>
+  </body>
+ </html>
