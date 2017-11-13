@@ -1,0 +1,278 @@
+{
+    "title": {
+            "text": {
+                "headline": "Timeline of My Experience",
+                "text":     "I'm gonna tell you some stories about me."
+            },
+            "media": {
+                "url": "http://dev-sherry-1996.pantheonsite.io/TimelineJS3-master/compiled/examples/DSC07058.JPG",
+                "thumb":    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mark_Twain%2C_Brady-Handy_photo_portrait%2C_Feb_7%2C_1871%2C_cropped.jpg/153px-Mark_Twain%2C_Brady-Handy_photo_portrait%2C_Feb_7%2C_1871%2C_cropped.jpg"
+            }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year":         "1996",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "url": "<blockquote><p>Every atom in your body came from a star that exploded. And, the atoms in your left hand probably came from a different star than your right hand. It really the most poetic thing I know about physics: You are all stardust.</p><cite>Lawrence M.Krauss</cite></blockquote>",
+                "thumb":    ""
+            },
+            "text": {
+                "headline": "The Beginning. ",
+                "text": "Born in a small town of Liao Ning, I just took the very first step of my journey."
+            },
+            "type": "overview"
+        },
+        {
+            "start_date": {
+                "year":         "1996",
+               "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+          
+
+            "media": {
+                "caption": "My Birthplace",
+                "credit": "",
+                "url": "http://pic.baike.soso.com/ugc/baikepic2/0/20160715115830-478941187.jpg/800"
+            },
+            "text": {
+                "headline": "Yang Yang",
+                "text": "This is where all my stories began."
+            },
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2001",
+                 "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+          
+              "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 39.491711,
+                "line": true,
+                "lon": -91.79326,
+                "name": "Florida, Missouri",
+                "zoom": 12
+            },
+            "media": {
+            	"caption": "Gou Bangzi",
+                "credit": "",
+                "url": "https://www.google.com.hk/maps/place/%E6%B2%9F%E5%B8%AE%E5%AD%90%E9%95%87%E4%B8%AD%E5%BF%83%E5%B0%8F%E5%AD%A6/@41.365274,121.7709053,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x5e2689c5d31252ed:0x112da67eb952935c!2z5rKf5biu5a2Q6ZWH5Lit5b-D5bCP5a2m!8m2!3d41.365274!4d121.773094!3m4!1s0x5e2689c5d31252ed:0x112da67eb952935c!8m2!3d41.365274!4d121.773094"   
+            },
+            "text": {
+                "headline": "Basic Education",
+                "text": "When I was a kid, there were only one primary school and two middle schools in our town so there were not so many choices for me. But I did spend a lot of wonderful time there. Sadly, those two schoools I went got demolished by government just a few years ago."
+            },
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":			"2010",
+                 "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+           
+            "media": {
+                "caption": "Panjin Senior Middle School",
+                "credit": "",
+                "url": "http://news.lnd.com.cn/attachement/jpg/site1/20110601/003018a116820f4f8c1815.jpg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "High School",
+                "text": "After senior high school entrance examination, I went to Panjin Senior Middle School which is a liitle far away from my home. Panjin Senior Middle School is a municiple key school of Panjin established in 1948, formly known as Pangshan United High School."
+            },
+            "type": "overview"
+        },
+        
+
+        {
+            "start_date": {
+                "year":			"2016",
+                 "month":        "3",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+             "end_date": {
+                "year":			"2016",
+                 "month":        "6",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+           
+            "media": {
+                "caption": "<With us>",
+                "credit": null,
+                "url": "https://www.youtube.com/watch?v=5m0SqFD5Gs4"
+            },
+            "text": {
+                "headline": "My First Internship",
+                "text": "I got my first internship in markerting department at iQiyi, an online video company. During my internship, I mainly paticipated the promotion of one self-produced drama 'With us'."
+            },
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2016",
+                "month":        "09",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+              "end_date": {
+                "year":			"2017",
+                 "month":        "1",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 39.3917,
+                "line": true,
+                "lon": 116.3064,
+                "zoom": 16
+            },
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "https://www.google.com.hk/maps/place/%E9%93%B6%E7%A7%91%E5%A4%A7%E5%8E%A6/@39.981642,116.3042523,17z/data=!3m1!4b1!4m5!3m4!1s0x35f05148ded55349:0x78867ceec302f24a!8m2!3d39.981642!4d116.306441"
+            },
+            "text": {
+                "headline": "My Second Internship",
+                "text": "In my senior year, I got my second internship in OMG(Online Media Group), Tencent. During my internship, I'm mainly responsible for data collection and analyses of Zhi Huitui, Tencent's online advertising platform."
+            },
+            "unique_id": ""
+        },
+       
+        {
+            "start_date": {
+                "year":			"2017",
+                 "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+           
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 22.4210,
+                "line": true,
+                "lon": 114.2090,
+                "name": "CUHK New Asia College",
+                "zoom": 16
+            },
+            "media": {
+                "caption": "Chinese University of Hong Kong",
+                "credit": "",
+                "url": "http://img001.21cnimg.com/photos/album/20170903/m320/2558B4587C9F9C1BCCA53EDE3B2C7844.jpeg"
+            },
+            "text": {
+                "headline": "CUHK",
+                "text": "Now, I'm a student majoring in new media in School of Jornalism and Communication, CUHK. Founded in 1963, CUHK is a university that is as firmly rooted in Chinese culture as it is positioned in modern civilized society.After half a century of growth and development, it has become a comprehensive research university, a regional leader with a global reputation. "
+            },
+            "unique_id": ""
+        },
+        {
+            "background": {
+                "color": null,
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2013",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "location": {
+                "icon": "http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-pushpin.png",
+                "lat": 39.9869,
+                "line": true,
+                "lon": -116.3059,
+                "zoom": 16
+            },
+            "media": {
+                "caption": "School of Jornalism and Communication",
+                "credit": "Peking University",
+                "url": "http://pic.baike.soso.com/ugc/baikepic2/0/ori-20141103113941-616128912.jpg/800"
+            },
+            "text": {
+                "headline": "Peking University",
+                "text": "After college entrance examination, I went to Peking University to study advertising in School of Journalism and Communication. Peking University is a comprehensive and national key university. Founded in 1898, Peking University was originally known as the Imperial University of Peking. It was the first national university covering comprehensive disciplines in China, and has been a leading institution of higher education in China since its establishment. It also served as the highest administration for education at the beginning of its founding. "
+            },
+            "unique_id": ""
+        },
+          {
+            "background": {
+                "color": null,
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":			"2017",
+                "month":		"11",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "thumbnail": 	"",
+                "format": 		""
+            },
+            "text": {
+                "headline": "To be continued!",
+                "text": ""
+            },
+            "unique_id": ""
+        }
+    ]
+}
